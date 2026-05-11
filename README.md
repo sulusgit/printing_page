@@ -67,8 +67,3 @@ git push origin main
 * **KH KS** - [Your GitHub Profile](https://www.google.com/search?q=https://github.com/sulusgit)
 
 ---
-
-### 💡 GitHub Pages Tip
-
-Ensure your GitHub repository settings are set to:
-**Settings > Pages > Build and deployment > Branch** Select your branch (e.g., `main`) and change the folder dropdown from `/ (root)` to **`/docs`**.

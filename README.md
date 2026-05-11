@@ -1,12 +1,12 @@
 
 
-#  GIRAFFPRINT web page 
+#  BLYEPRINT web page 
 
 A sleek, single-page web interface built with pure HTML, CSS, and JavaScript. This project is hosted via **GitHub Pages** directly from the `/docs` directory.
 
 ## Live Demo
 
-**[View the Live Site here](https://www.google.com/search?q=https://your-username.github.io/your-repo-name/)**
+**[View the Live Site here](https://sulusgit.github.io/printing_page/)**
 
 ---
 
